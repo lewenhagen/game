@@ -91,7 +91,14 @@ var corrImages = [
     "<img src='img/correct/corr2.jpg'>"
 ];
 
+// var corrTexts = [
+//     "BRAVO!",
+//     "JÄTTEBRA!",
+//     "SNYGGT JOBBAT!",
+//     "DUKTIGT!"
+// ];
+
 var errImages = [
     "<img src='img/error/err1.jpg'>",
-    "<img src='img/error/err2.jpg'>",
+    "<img src='img/error/err2.png'>",
 ];

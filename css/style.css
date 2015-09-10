@@ -11,18 +11,38 @@ body {
     margin: 0 auto;
     margin-top: 30px;
     border: 1px solid black;
+    box-shadow: 10px 10px 5px #888888;
 }
 
 #left {
     width: 400px;
+    height: 360px;
     float: left;
 }
 
-#right {
+#right-top {
     float: right;
     width: 400px;
+    height: 260px;
+}
+
+#right-bottom {
+    float: right;
+    height: 100px;
+    width: 400px;
+    font-size: 20px;
+    color: orange;
+}
+
+#right-bottom p {
+    margin-left: 50px;
 }
 
 .panel-default {
     margin-bottom: 0px;
+}
+
+#tryAgain {
+    width: 500px;
+    background-color: yellow;
 }
